@@ -1,0 +1,34 @@
+{
+  "name": "paypal-proyect-frontend",
+  "version": "1.0.0",
+  "description": "DevPosts Frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregoryvicent/DevPosts-frontend.git"
+  },
+  "keywords": [
+    "frontend",
+    "js",
+    "javascript",
+    "typescript",
+    "tsx",
+    "ts",
+    "react",
+    "nextjs"
+  ],
+  "author": "Gregory Vicent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregoryvicent/DevPosts-frontend/issues"
+  },
+  "homepage": "https://github.com/gregoryvicent/DevPosts-frontend#readme",
+  "dependencies": {
+    "next": "^13.5.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
