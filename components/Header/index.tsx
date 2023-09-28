@@ -3,7 +3,7 @@ import Image from "next/image"
 
 export default function Header() {
     return (
-	<div className="fixed bg-zinc-950 w-full p-3">
+	<div className="fixed w-full p-3 bg-gradient-to-b from-zinc-950">
 	    <header className="bg-zinc-800 h-14 w-full rounded-full flex justify-between items-center">
 		<Image src="" alt=""/>
 		<nav className="mx-10">
