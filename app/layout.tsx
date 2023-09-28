@@ -9,7 +9,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="es">
-	<body className='bg-gradient-to-b from-blue-600 from-5% via-slate-950 via-40% to-slate-950 to-90% h-screen overflow-x-hidden'>
+	<body className="bg-zinc-950 h-screen overflow-x-hidden relative">
 	    <Header />
 	    <main>
 		{children}
