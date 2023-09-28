@@ -42,6 +42,7 @@ export default function Page() {
 		{
 		    posts.map((a) => (
 			<Posts 
+			    key={ a.title }
 			    title={ a.title }
 			    img={ a.img }
 			    date={ a.date }
